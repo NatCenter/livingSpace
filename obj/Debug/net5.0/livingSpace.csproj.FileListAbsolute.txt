@@ -1,0 +1,16 @@
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\livingSpace.exe
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\livingSpace.deps.json
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\livingSpace.runtimeconfig.json
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\livingSpace.runtimeconfig.dev.json
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\livingSpace.dll
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\ref\livingSpace.dll
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\bin\Debug\net5.0\livingSpace.pdb
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.csproj.AssemblyReference.cache
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.AssemblyInfoInputs.cache
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.AssemblyInfo.cs
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.dll
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\ref\livingSpace.dll
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.pdb
+C:\Users\Nathan\workspace\lightningExercises\livingSpace\obj\Debug\net5.0\livingSpace.genruntimeconfig.cache
